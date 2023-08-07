@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon .",
-    "start": "node ."
+    "start": "node index,js"
   },
   "dependencies": {
     "@discordjs/builders": "^0.12.0",
